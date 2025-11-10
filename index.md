@@ -8,13 +8,13 @@
 
 ## **What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic this quarter has been the integration of AI-driven adaptivity into educational tools. Learning about Retrieval-Augmented Generation (RAG) and question generation pipelines showed how large language models can personalize learning experiences and automatically generate high-quality, context-aware content for students.
+The most interesting topic this quarter has been the integration of AI-driven adaptivity into educational tools. Learning about Retrieval-Augmented Generation (RAG) and question generation pipelines showed how large language models can personalize learning experiences and automatically generate high-quality, context-aware content for students or people of all ages.
 
 ---
 
 ## **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-For Quarter 2, I’d like to explore how adaptive difficulty systems affect learning outcomes within DataLingo. Specifically, I want to test whether dynamically adjusting question difficulty based on a student’s performance improves engagement and retention compared to static lesson structures. This could involve building a recommendation system within the platform that adjusts lesson paths using user progress data from Supabase.
+For Quarter 2, I’d like to explore how adaptive difficulty systems affect learning outcomes within DataLingo. Specifically, I want to test whether dynamically adjusting question difficulty based on a student’s performance improves engagement and retention compared to static lesson structures. This could involve building a recommendation system within the platform that adjusts lesson paths using user progress data from Supabase that directly uses SQL Alchemy.
 
 ---
 
@@ -26,7 +26,7 @@ One change I’d make is to implement SQLAlchemy earlier for backend analytics i
 
 ## **What other techniques would you be interested in using in your project?**
 
-I’d like to incorporate clustering and predictive modeling to identify groups of learners with similar performance patterns. Using unsupervised learning could help detect topics where students commonly struggle and inform future lesson design. Additionally, exploring visualization techniques in Plotly or D3 could make learner analytics more interpretable for instructors and students.
+I’d like to incorporate clustering and predictive modeling to identify groups of learners with similar performance patterns and at the same time, using these metrics to improve question and reccomendation quality. Using unsupervised learning could help detect topics where students commonly struggle and inform future lesson design. Additionally, exploring visualization techniques in Plotly or D3 could make learner analytics more interpretable for instructors and students.
 
 ---
 
